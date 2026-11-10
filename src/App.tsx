@@ -231,7 +231,7 @@ export default function App() {
       <div
         className="fixed inset-0 z-0 bg-cover bg-center bg-no-repeat transition-all duration-700 pointer-events-none"
         style={{
-          backgroundImage: "url('/assets/aistudio/BBQ_Backdrop_fce88b2a.jfif')",
+          backgroundImage: "url('./assets/aistudio/BBQ_Backdrop_fce88b2a.jfif')",
         }}
       />
 
