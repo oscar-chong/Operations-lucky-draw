@@ -1,0 +1,6 @@
+{
+  "name": "2026 營運盛會 · 尊榮懸疑抽獎殿堂",
+  "description": "2026 二零二六年營運盛會尊榮抽獎系統，包含個人幸運大抽獎與全桌同慶抽獎雙模組，配備極致懸疑光效、真實震撼音效與智慧名單管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
